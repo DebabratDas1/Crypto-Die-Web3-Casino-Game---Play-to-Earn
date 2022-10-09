@@ -1,3 +1,13 @@
+# How to play
+## Install Metamask extension on your browser
+## Add CoinEx testnet on metamask
+## Get some tCET free faucet on your wallet
+## Start Game (See how to play : )
+## Connect with Wallet by 
+
+
+
+
 # Unity ^2020.1.0 Web3GL Template
 
 ## Methods in Browser
